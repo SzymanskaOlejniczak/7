@@ -20,7 +20,7 @@
             "/.vscode/**"
         ],
         "liveSassCompile.settings.generateMap": true,
-        "liveServer.settings.port": 1237,
+        "liveServer.settings.port": 1238,
         "liveSassCompile.settings.autoprefix": null,
     
         "workbench.colorTheme": "Visual Studio Dark",
